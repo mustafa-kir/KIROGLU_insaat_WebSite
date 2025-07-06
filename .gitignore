@@ -1,0 +1,33 @@
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# VSCode editörü dosyaları
+.vscode/
+
+# Node.js varsa (kullanmıyorsan silebilirsin)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Gitle takip edilmesini istemediğin diğer klasörler
+dist/
+build/
+*.log
+
+# MacOS veya Linux geçici dosyalar
+*.swp
+*.swo
+*.bak
+*.tmp
+*.temp
+
+# Netlify veya benzeri servislerin geçici dosyaları
+.netlify/
+
+# Sass varsa
+.sass-cache/
+*.scssc
