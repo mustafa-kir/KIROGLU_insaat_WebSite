@@ -1791,9 +1791,9 @@
         --------------------------------------------------------- */
         $( ".slider-range" ).slider({
             range: true,
-            min: 50,
-            max: 5000,
-            values: [ 50, 1500 ],
+            min: 100000,
+            max: 10000000,
+            values: [ 100000, 100000 ],
             slide: function( event, ui ) {
                 $( ".amount" ).val( "$" + ui.values[ 0 ] + " - $" + ui.values[ 1 ] );
             }
