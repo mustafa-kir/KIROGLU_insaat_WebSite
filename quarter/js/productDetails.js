@@ -43,6 +43,18 @@ function initProductDetails() {
 }
 function updatePageContent(project) {
     try {
+        // SEO: Sayfa title ve meta description'ı dinamik güncelle
+        document.title = `${project.title} | Kıroğlu İnşaat — Avcılar`;
+        const metaDesc = document.getElementById("pd-page-description");
+        if (metaDesc) metaDesc.setAttribute("content", `${project.title} — Kıroğlu İnşaat'ın ${project.location} konumundaki ${project.type} projesi. ${project.description ? project.description.substring(0, 120) : ''}`);
+        // OG tags güncelle
+        const ogTitle = document.getElementById("og-title");
+        const ogDesc = document.getElementById("og-description");
+        const ogImg = document.getElementById("og-image");
+        if (ogTitle) ogTitle.setAttribute("content", `${project.title} | Kıroğlu İnşaat`);
+        if (ogDesc) ogDesc.setAttribute("content", `${project.location} — ${project.type} projesi. ${project.totalApartment} daire, ${project.area} m².`);
+        if (ogImg && project.image) ogImg.setAttribute("content", project.image);
+
         // Başlıklar
         document.getElementById("pd-page-title").textContent = project.title;
         document.getElementById("pd-title").textContent = project.title;

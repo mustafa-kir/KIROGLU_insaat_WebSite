@@ -1,0 +1,35 @@
+User-agent: *
+Allow: /
+
+# Kullanılmayan şablon sayfalarını indekslemesini engelle
+Disallow: /blog.html
+Disallow: /blog-details.html
+Disallow: /blog-grid.html
+Disallow: /blog-left-sidebar.html
+Disallow: /blog-right-sidebar.html
+Disallow: /cart.html
+Disallow: /checkout.html
+Disallow: /coming-soon.html
+Disallow: /login.html
+Disallow: /register.html
+Disallow: /account.html
+Disallow: /add-listing.html
+Disallow: /appointment.html
+Disallow: /wishlist.html
+Disallow: /shop.html
+Disallow: /shop-grid.html
+Disallow: /shop-list.html
+Disallow: /shop-right-sidebar.html
+Disallow: /order-tracking.html
+Disallow: /404.html
+Disallow: /test.html
+Disallow: /portfolio.html
+Disallow: /portfolio-2.html
+Disallow: /portfolio-details.html
+Disallow: /team.html
+Disallow: /team-details.html
+Disallow: /service.html
+Disallow: /service-details.html
+Disallow: /locations.html
+
+Sitemap: https://www.kiroglu.com/sitemap.xml
