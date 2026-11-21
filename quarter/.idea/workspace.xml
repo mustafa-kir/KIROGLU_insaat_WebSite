@@ -4,14 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b76b487-dbaa-4d5e-a38a-2d37c0a740b2" name="Changes" comment="" />
+    <list default="true" id="1b76b487-dbaa-4d5e-a38a-2d37c0a740b2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/history.html" beforeDir="false" afterPath="$PROJECT_DIR$/history.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locations.html" beforeDir="false" afterPath="$PROJECT_DIR$/locations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/product-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service.html" beforeDir="false" afterPath="$PROJECT_DIR$/service.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-left-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop-left-sidebar.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="264" />
+    <option name="cachedIndexableFilesCount" value="239" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,23 +52,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.000000023433158" />
-      <entry key="S10" value="1.0002211425617047" />
-      <entry key="S30" value="1.1263833183194596" />
-      <entry key="S60" value="1.7500048015882868" />
-      <entry key="M2" value="3.1122771451267663" />
-      <entry key="M5" value="5.241593473099219" />
-      <entry key="M10" value="6.428910104310844" />
-      <entry key="M15" value="6.904077386455317" />
-      <entry key="M30" value="7.426098656221518" />
-      <entry key="H1" value="7.706228733599171" />
-      <entry key="H2" value="7.851365276749195" />
-      <entry key="H4" value="7.925239743393483" />
-      <entry key="D1" value="7.987477960660827" />
-      <entry key="W1" value="7.998209612608706" />
+      <entry key="MS100" value="1.0000918729704311" />
+      <entry key="MS500" value="1.1573406392341428" />
+      <entry key="S2" value="1.8255939802780765" />
+      <entry key="S5" value="2.3528176232572133" />
+      <entry key="S10" value="2.63405501178085" />
+      <entry key="S30" value="2.877164878379207" />
+      <entry key="S60" value="3.0332454988996584" />
+      <entry key="M2" value="3.312174885411976" />
+      <entry key="M5" value="4.495146588905243" />
+      <entry key="M10" value="6.705659461669563" />
+      <entry key="M15" value="8.238420769125824" />
+      <entry key="M30" value="10.535469365123149" />
+      <entry key="H1" value="12.089224432327452" />
+      <entry key="H2" value="12.995100153045314" />
+      <entry key="H4" value="13.484501972496664" />
+      <entry key="D1" value="13.912211539570551" />
+      <entry key="W1" value="13.987412141418007" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -79,23 +90,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9726549474122855" />
-      <entry key="MS500" value="0.9944701686732144" />
-      <entry key="S2" value="0.9986146661010289" />
-      <entry key="S5" value="0.9994456494985406" />
-      <entry key="S10" value="0.9999034302659011" />
-      <entry key="S30" value="1.1200991531992883" />
-      <entry key="S60" value="1.729398029241906" />
-      <entry key="M2" value="3.0788632575275456" />
-      <entry key="M5" value="5.212055548375559" />
-      <entry key="M10" value="6.409417952277287" />
-      <entry key="M15" value="6.889804253745113" />
-      <entry key="M30" value="7.41825499278374" />
-      <entry key="H1" value="7.702116231465798" />
-      <entry key="H2" value="7.849259511615034" />
-      <entry key="H4" value="7.9241742443092775" />
-      <entry key="D1" value="7.987298604642226" />
-      <entry key="W1" value="7.9981839466336675" />
+      <entry key="MS100" value="0.939608469726454" />
+      <entry key="MS500" value="1.1427527265998105" />
+      <entry key="S2" value="1.818875180674875" />
+      <entry key="S5" value="2.348901626429976" />
+      <entry key="S10" value="2.631748597201535" />
+      <entry key="S30" value="2.8762929186951203" />
+      <entry key="S60" value="3.03277413732746" />
+      <entry key="M2" value="3.3117536784438797" />
+      <entry key="M5" value="4.491558005404704" />
+      <entry key="M10" value="6.698880077189923" />
+      <entry key="M15" value="8.231334998539067" />
+      <entry key="M30" value="10.529904107372307" />
+      <entry key="H1" value="12.085734849827386" />
+      <entry key="H2" value="12.993146002482582" />
+      <entry key="H4" value="13.48346790632915" />
+      <entry key="D1" value="13.912030855268961" />
+      <entry key="W1" value="13.987386119383675" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
