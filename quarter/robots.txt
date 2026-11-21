@@ -31,5 +31,6 @@ Disallow: /team-details.html
 Disallow: /service.html
 Disallow: /service-details.html
 Disallow: /locations.html
+Disallow: /history.html
 
-Sitemap: https://www.kiroglu.com/sitemap.xml
+Sitemap: https://www.kirogluinsaat.com.tr/sitemap.xml
