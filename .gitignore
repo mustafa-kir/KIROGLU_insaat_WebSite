@@ -17,6 +17,8 @@ yarn.lock
 dist/
 build/
 *.log
+# Agents klasörü
+.agents/
 
 # MacOS veya Linux geçici dosyalar
 *.swp
