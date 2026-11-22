@@ -33,4 +33,4 @@ Disallow: /service-details.html
 Disallow: /locations.html
 Disallow: /history.html
 
-Sitemap: https://www.kirogluinsaat.com.tr/sitemap.xml
+Sitemap: https://kirogluinsaat.com.tr/sitemap.xml
